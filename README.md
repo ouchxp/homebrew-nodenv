@@ -1,6 +1,6 @@
 # Homebrew-nodenv
 
-This tap provides Homebrew formulae for [plugins](https://github.com/ouch/nodenv-nvmrc) extending [nodenv](https://github.com/nodenv/nodenv).
+This tap provides Homebrew formula for [plugins](https://github.com/ouchxp/nodenv-nvmrc) extending [nodenv](https://github.com/nodenv/nodenv).
 
 ## Installing Homebrew-nodenv Formulae
 Just `brew tap ouchxp/nodenv` and then `brew install <formula>`. You only need to tap the repository once.
