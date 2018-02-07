@@ -1,8 +1,8 @@
 class NodenvNvmrc < Formula
   desc "Pick a node version from .nvmrc"
   homepage "https://github.com/ouchxp/nodenv-nvmrc"
-  url "https://github.com/ouchxp/nodenv-nvmrc/archive/v1.0.0.tar.gz"
-  sha256 "2906357076f9854a30c313a69444a654bea06cd7f4f170a772ce0cdc71565003"
+  url "https://github.com/ouchxp/nodenv-nvmrc/archive/v1.0.1.tar.gz"
+  sha256 "8ada13ce9c94126459ba9edcc9992b6a736e610b84027cf23cf62a24aea88614"
   head "https://github.com/ouchxp/nodenv-nvmrc.git"
 
   depends_on "nodenv"
