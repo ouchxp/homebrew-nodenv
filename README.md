@@ -1,4 +1,4 @@
-This formula is not a part of [homebrew-nodenv](https://github.com/nodenv/homebrew-nodenv)
+This formula is now a part of [homebrew-nodenv](https://github.com/nodenv/homebrew-nodenv)
 
 # Homebrew-nodenv
 
