@@ -1,3 +1,5 @@
+This formula is not a part of [homebrew-nodenv](https://github.com/nodenv/homebrew-nodenv)
+
 # Homebrew-nodenv
 
 This tap provides Homebrew formula for [plugins](https://github.com/ouchxp/nodenv-nvmrc) extending [nodenv](https://github.com/nodenv/nodenv).
