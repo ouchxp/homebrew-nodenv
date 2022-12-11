@@ -12,6 +12,6 @@ class NodenvNvmrc < Formula
   end
 
   test do
-    assert_match /\bnvmrc\b/, shell_output("nodenv hooks which")
+    assert_match(/\bnvmrc\b/, shell_output("nodenv hooks which"))
   end
 end
